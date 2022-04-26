@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>SmartLoan</title>
     <meta name="viewport" content="width=device-width">
-    <meta name="description" content="SmartLoan is a Proof of Concept P2P loan DeFi prototype for the digital future which attempt to solve student debt crisis.">
+    <meta name="description" content="Elemetrics aims to reshape the future of the student loan complex by leveraging the previously untapped capital-sourcing infrastructure of the decentralized web">
     <link rel="canonical" href="https://smartloan.github.io/smartloan-page//">
     <link rel="icon" href="img/SmartLoan-app-icon.png"> 
     <meta property="og:image" content="img/mainAbout_sq.png">
@@ -87,7 +87,7 @@
                     <div class="intro-lead-in">
                         DeFi Solution to Student Debt Crisis!
                     </div>
-                    <div class="intro-heading">SmartLoan</div>
+                    <div class="intro-heading">Elemetrics</div>
                 <a href="#about" class="page-scroll btn btn-xl">Tell Me More</a>
             </div>
         </div>
@@ -111,7 +111,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">about</h2>
-                        <h3 class="section-subheading">SmartLoan is currently still in developing process and is a prototype of research on credit creation theory.<br />
+                        <h3 class="section-subheading">Elemetrics whitepaper coming soon.<br />
                         It will be opperated accordance to Friendly Loan Agreement between leanders and borrowers.</h3>
                 </div>
             </div>
@@ -122,7 +122,7 @@
                         <i class="fa fa-mortar-board fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">DeFi Prototype</h4>
-                    <p class="text-muted">SmartLoan is a Proof of Concept P2P loan DeFi prototype for the digital future which attempt to solve student debt crisis.</p>
+                    <p class="text-muted">Elemetrics.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -130,7 +130,7 @@
                         <i class="fa fa-link fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Best of Both Worlds</h4>
-                    <p class="text-muted">SmartLoan attempt to bridge between permissionless and permissioned chains, providing a low risk, secured and collateral-free lending that benefits both borrowers and lenders.</p>
+                    <p class="text-muted">Elemetrics attempt to bridge between permissionless and permissioned chains, providing a low risk, secured and collateral-free lending that benefits both borrowers and lenders.</p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -285,7 +285,6 @@
                                     <h4 class="subheading">Forming of the Team</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">A small team was formed during the Celo Hackathon. While workiing to make SmartLoan dApp work on Celo, the concept of SmartLoan was born. Although the project loses and did not receive any award, the team continues to work on SmartLoan to enable the practical implementation of the idea.</p>
                                 </div>
                             </div>
                         </li>
@@ -299,7 +298,7 @@
                                     <h4 class="subheading">Bridging the Chains</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">SmartLoan test run on its Hyperledger Aries agent, bridging between permissionless chain with permissioned chain to provide identity verification. This is a very important feature to make a collateral-free loan prodcut to be secured and lowered the risk!</p>
+                                    <p class="text-muted">Test run on its Hyperledger Aries agent, bridging between permissionless chain with permissioned chain to provide identity verification. This is a very important feature to make a collateral-free loan prodcut to be secured and lowered the risk!</p>
                                 </div>
                             </div>
                         </li>
@@ -313,7 +312,7 @@
                                     <h4 class="subheading">Working Prototype 1.0</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">We are enticipating the working prototype SmartLoan 1.0 to be released and running on Mainnet. The founder will be the first experimental specimen to take this risk for this project!</p>
+                                    <p class="text-muted">We are enticipating the working prototype Elemetrics 1.0 to be released and running on Mainnet. The founder will be the first experimental specimen to take this risk for this project!</p>
                                 </div>
                             </div>
                         </li>
@@ -464,10 +463,10 @@
                                 <i class="fa fa-circle fa-stack-2x text-primary"></i>
                                 <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
                             </span></a>
-                            <h4 class="service-heading2">sales.SmartLoan@outlook.my</h4>
+                            <h4 class="service-heading2">founder@elemetrics.io</h4>
                             <p class="text-muted"></p>
                         </div>
-                        <div class="col-md-4"><a href="https://discord.gg/aJXAsgW3">
+                        <div class="col-md-4"><a href="3">
                             <span class="fa-stack fa-4x">
                                 <i class="fa fa-circle fa-stack-2x text-primary"></i>
                                 <i class="fa fa-comments-o fa-stack-1x fa-inverse"></i>
@@ -476,7 +475,7 @@
                             <p class="text-muted"></p>
                         </div>
                         <div class="col-md-4">
-                            <span class="fa-stack fa-4x"><a href="whatsapp://send?phone=+60164713138">
+                            <span class="fa-stack fa-4x"><a href="whatsapp://send?phone=+6033185617">
                                 <i class="fa fa-circle fa-stack-2x text-primary"></i>
                                 <i class="fa fa-whatsapp fa-stack-1x fa-inverse"></i>
                             </span></a>
@@ -524,18 +523,18 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; SmartLoan 2021</span>
+                    <span class="copyright">Copyright &copy; Elemetrics 2021</span>
                 </div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
                         
-                        <li><a href="https://twitter.com/smartloan2"><i class="fa fa-twitter"></i></a>
+                        <li><a href="https://twitter.com/elemetrics2"><i class="fa fa-twitter"></i></a>
                         </li>
                         
-                        <li><a href="https://discord.gg/aJXAsgW3"><i class="fa fa-comments-o"></i></a>
+                        <li><a href=""><i class="fa fa-comments-o"></i></a>
                         </li>
                         
-                        <li><a href="https://github.com/SmartLoan"><i class="fa fa-github"></i></a>
+                        <li><a href="https://github.com/Elemetrics"><i class="fa fa-github"></i></a>
                         </li>
                         
                     </ul>
@@ -569,10 +568,10 @@
                             <h2>SML Token</h2>
                             <hr class="star-primary">
                             <!--img src="img/portfolio/sail.png" class="img-responsive img-centered" alt="image-alt"-->
-                            <p>SML is the underlying token that makes SmartLoan operates. One SML token represent one BUSD, which is backed by same value of the reserved asset valued at one USD. When Investor trasfered BUSD into the contract, same amount of SML token will be minted into his/her account. The BUSD in the contract account will work as the funding capital. When a borrower took up a loan, the contract will release the amount of BUSD accordingly to the borrower by input schedule. When the borrower pay the loan interest, the interest will be distributed to the SML token stake holders. When the borrower repay the principal, the floating SML token will be burnt. If the investor decided to keep the SML token, the funds will remain in the pool for other borrowers. The price of SML token is peg to BUSD, therefore, it is not a rocket to the Moon. It is simply a ship sailing on earth. <br><br>For details, do check out the github repository.</p>
+                            <p>SML is the underlying token that allows Elemetrics to operate with superior efficiency. One SML token represent one BUSD, which is backed by same value of the reserved asset valued at one USD. When Investor trasfered BUSD into the contract, same amount of SML token will be minted into his/her account. The BUSD in the contract account will work as the funding capital. When a borrower took up a loan, the contract will release the amount of BUSD accordingly to the borrower by input schedule. When the borrower pay the loan interest, the interest will be distributed to the SML token stake holders. When the borrower repay the principal, the floating SML token will be burnt. If the investor decided to keep the SML token, the funds will remain in the pool for other borrowers. The price of SML token is peg to BUSD, therefore, it is not a rocket to the Moon. It is simply a ship sailing on earth. <br><br>For details, do check out the github repository.</p>
                             <ul class="list-inline item-details">
                                 <li>Github:
-                                    <strong><a href="http://startbootstrap.com">https://github.com/SmartLoan</a>
+                                    <strong><a href="http://startbootstrap.com">https://github.com/Elemetrics</a>
                                     </strong>
                                 </li>
                                 <li>Date:
@@ -610,7 +609,7 @@
                             <p>Free education is good, as for the 40 countries with free graduate school tuition, for example in Germany. Although the system were praised worldwide to be a success, it cannot deny the fact that more than two-thirds of the annual funds invested in research came from corporations. Companies either conduct research themselves or collaborate with research partners. Researchers are supported not only with job offers, but also with scholarships and prizes from corporate foundations. Although corporate funding are well received, such approach might raise a conflict of interest between corporate benefits vs scientific integrity. Corporate interests sometimes can drive research agendas away, therefore, SmartLoan seeks to promote independent research as a counter balance to promote healthy competition, strengthen theoritical defence and create diversify opinions in the researched subject.  <br><br>To learn more about the issue, check out our repository at github.</p>
                             <ul class="list-inline item-details">
                                 <li>Github:
-                                    <strong><a href="http://startbootstrap.com">https://github.com/SmartLoan</a>
+                                    <strong><a href="http://startbootstrap.com">https://github.com/Elemetrics</a>
                                     </strong>
                                 </li>
                                 <li>Date:
@@ -648,7 +647,7 @@
                             <p>Scholarships, sponsorship and grant awards that are available mostly reserved for the young, elite and students in under-developed countries. This has put a limit to every average people who intend to learn, serve and contribute. As most average people does not received any free support, their desire for accademic advancement lies on their willingness to sacrifice their comfort zone, by taking up an education loan, hoping for greater career advancement in their future after graduate.  <br><br>If an average person wants to serve as a doctor in a remote village where most of the villagers are in lower income group, he/she will be discouraged to do so after knowing the cost of getting a medical practitioner degree with traditional education loan. <br><br>With SmartLoan Dynamic Interest Rate, an average graduate has a freedom of his/her career choice. Whether he/she wants to serve the community or seeking for greater profitable career. The interest rate is calculated based on the borrower's gross income. If he/she decided to work for charitable non-profit organization, or work in a remote villages to server the underserved people, they will pay less interest compare to those who choose to walk in the for-profit path. <br><br>To learn more about how SmartLoan help the average people, do visit our Github repository.</p>
                             <ul class="list-inline item-details">
                                 <li>Github:
-                                    <strong><a href="http://startbootstrap.com">https://github.com/SmartLoan</a>
+                                    <strong><a href="http://startbootstrap.com">https://github.com/Elemetrics</a>
                                     </strong>
                                 </li>
                                 <li>Date:
@@ -686,7 +685,7 @@
                             <p>Investors looking for some form of security when it comes to collateral-free loan. While public permissionless blockchain provided easy access and reliable ecosystem for financial transaction, permissioned blockchain added a layer of security by providing verifiable indentity to validate the borrowers' identity and qualification. With verifiable credentials and data, a borrower unable to cheat the system, thus, gross income based interest rate on education loan made possible to be implemented in the worldwide ecosystem! SmartLoan is the prototype of that will be implemented in these ecosystem. To learn more, visit our Github repository.</p>
                             <ul class="list-inline item-details">
                                 <li>Github:
-                                    <strong><a href="http://startbootstrap.com">https://github.com/SmartLoan</a>
+                                    <strong><a href="http://startbootstrap.com">https://github.com/Elemetrics</a>
                                     </strong>
                                 </li>
                                 <li>Date:
@@ -724,7 +723,7 @@
                             <p>Does generosity begat generosity? According to a research by <a href="https://www.nber.org/system/files/working_papers/w17861/w17861.pdf" target="_blank">J Meer and Rosen</a>, those who received any form of scholarship had lower probability of giving back by 0.7%. Although the number is very insignificant, it does indicates that the ineffectiveness of scholarship to promote generosity and giving-back culture amongs those who benefited from the program.</br></br>While the reseaon behind the ungratitude behaviour migth be due to the fact that most scholarships were offered by wealthy organizations that the receipient do not feel resentful without providing back the generosity to them. SmartLoan being funded by the general public, reminds the receipient of the loan, to pay back their loan with interest, where the interest rate is tied to the success of the recipient's future career. And the loan is forgiven when unfortunate events happened. SmartLoan attempt to enforce the gratitude economy through its dynamic interest rate calculation. To learn more, do visit our Github repository.</p>
                             <ul class="list-inline item-details">
                                 <li>Github:
-                                    <strong><a href="http://startbootstrap.com">https://github.com/SmartLoan</a>
+                                    <strong><a href="http://startbootstrap.com">https://github.com/Elemetrics</a>
                                     </strong>
                                 </li>
                                 <li>Date:
@@ -762,7 +761,7 @@
                             <p>If you seek for greater profit, you had to be willing to take greater risk! That's when the Negative Interest Rate comes to the picture.  <br><br>The concept of Negative Interest Rate was first introduced by a German theoritical economist Silvio Gesell. Although it is an unpopular theory, SmartLoan seeks to implement the concept on certain unfortunate circumstance that happened to the borrower. In contrast to that, if the lender willing to take this risk, they will be awarded by high positive interest rates when the borrower experience good times.  Given an example, Alice borrowed $12k for her study. After she graduate, she caught into an accident where she was permanently disabbled. In such circumstance, the Negative Interest Rate activated to cancel itself, forgiven her loan repayment every month.  <br><br>In another circumstance, after Alice graduated, she started a business and it became a huge success. She got extremely lucky and won a lottery. The high interest rate came into the system, in addition to that, the rate is calculated based on Alice's gross income. Where the success of her business and lottery winnings being part of the numbers. Therefore, the lenders successfully obtain a huge gain from the interest payment by Alice. This is a form of "Gratitude Economy", where Alice's payment of interest, is a form of action of gratitude towards those who supported her (the lenders) during her times of needs.  <br><br>For detail about how the Dynamic Interest Rate is calculated, check out our Github repository.</p>
                             <ul class="list-inline item-details">
                                 <li>Github:
-                                    <strong><a href="http://startbootstrap.com">https://github.com/SmartLoan</a>
+                                    <strong><a href="http://startbootstrap.com">https://github.com/Elemetrics</a>
                                     </strong>
                                 </li>
                                 <li>Date:
