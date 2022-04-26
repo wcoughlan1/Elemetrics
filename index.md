@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>SmartLoan</title>
+    <title>Elemetrics</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="SmartLoan is a Proof of Concept P2P loan DeFi prototype for the digital future which attempt to solve student debt crisis.">
     <link rel="canonical" href="https://smartloan.github.io/smartloan-page//">
