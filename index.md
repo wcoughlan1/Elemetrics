@@ -1,37 +1,806 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/wcoughlan1/Elemetrics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>SmartLoan</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="SmartLoan is a Proof of Concept P2P loan DeFi prototype for the digital future which attempt to solve student debt crisis.">
+    <link rel="canonical" href="https://smartloan.github.io/smartloan-page//">
+    <link rel="icon" href="img/SmartLoan-app-icon.png"> 
+    <meta property="og:image" content="img/mainAbout_sq.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="1200">
 
-### Markdown
+    <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+    <link rel="stylesheet" href="/smartloan-page//style.css">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="/smartloan-page//css/font-awesome/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
 
-```markdown
-Syntax highlighted code block
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+    <body id="page-top" class="index">
 
-**Bold** and _Italic_ and `Code` text
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container nopadding">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top"><img src="img/SL logo_5.png" style="height:100%;" /></a>
+            </div>
 
-[Link](url) and ![Image](src)
-```
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#portfolio">Articles</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#timeline">Timeline</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#team">Team</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                    <div class="intro-lead-in">
+                        DeFi Solution to Student Debt Crisis!
+                    </div>
+                    <div class="intro-heading">SmartLoan</div>
+                <a href="#about" class="page-scroll btn btn-xl">Tell Me More</a>
+            </div>
+        </div>
+    </header>
+<!--
+        
+          
+        
+          
+        
+          
+        
+          
+        
+ -->
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wcoughlan1/Elemetrics/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">about</h2>
+                        <h3 class="section-subheading">SmartLoan is currently still in developing process and is a prototype of research on credit creation theory.<br />
+                        It will be opperated accordance to Friendly Loan Agreement between leanders and borrowers.</h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-mortar-board fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">DeFi Prototype</h4>
+                    <p class="text-muted">SmartLoan is a Proof of Concept P2P loan DeFi prototype for the digital future which attempt to solve student debt crisis.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-link fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Best of Both Worlds</h4>
+                    <p class="text-muted">SmartLoan attempt to bridge between permissionless and permissioned chains, providing a low risk, secured and collateral-free lending that benefits both borrowers and lenders.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-money fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Unique Design</h4>
+                    <p class="text-muted">The design of negative interest rates calculated based on monthly repayment principal, and positive interest rates based on the debtor's net income.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Portfolio Grid Section -->
+    <section id="portfolio" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Documents and Articles</h2>
+                    <p></p>
+                    <!--h3 class="section-subheading text-muted"></h3-->
+                </div>
+            </div>
+            <div class="row">
+            
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fab fa-readme"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/sail-thumbnail.png" class="img-responsive img-centered" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>SML Token</h4>
+                        <p class="text-muted">The Moon is not our destination!</p>
+                    </div>
+                </div>
+            
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fab fa-readme"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/research-thumbnail.png" class="img-responsive img-centered" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Fund Independent Research</h4>
+                        <p class="text-muted">Influence-Free Fact-Based Research</p>
+                    </div>
+                </div>
+            
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fab fa-readme"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/opportunity-thumbnail.png" class="img-responsive img-centered" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Advancement Opportunities</h4>
+                        <p class="text-muted">For the average people</p>
+                    </div>
+                </div>
+            
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fab fa-readme"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/connect-thumbnail.png" class="img-responsive img-centered" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Best of Both Worlds</h4>
+                        <p class="text-muted">Permissionless and Permissioned Chains</p>
+                    </div>
+                </div>
+            
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fab fa-readme"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/support-thumbnail.png" class="img-responsive img-centered" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Funded by Public</h4>
+                        <p class="text-muted">Promoting Gratitude Economy</p>
+                    </div>
+                </div>
+            
+                <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
+                        <div class="portfolio-hover">
+                            <div class="portfolio-hover-content">
+                                <i class="fab fa-readme"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/path-thumbnail.png" class="img-responsive img-centered" alt="">
+                    </a>
+                    <div class="portfolio-caption">
+                        <h4>Dynamic Interest Money</h4>
+                        <p class="text-muted">Proposed solution to debt crisis</p>
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    </section>
 
-### Support or Contact
+    <!-- timeline Section -->
+    <section id="timeline">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Timeline</h2>
+                    <h3 class="section-subheading text-muted"></h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/timeline/1.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>2020</h4>
+                                    <h4 class="subheading">Our Humble Beginnings</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Asvoria received a PhD acceptance letter, but failed the scholarship application. The idea of funding the education through blockchain came to her mind.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/timeline/2.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>March 2021</h4>
+                                    <h4 class="subheading">Forming of the Team</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">A small team was formed during the Celo Hackathon. While workiing to make SmartLoan dApp work on Celo, the concept of SmartLoan was born. Although the project loses and did not receive any award, the team continues to work on SmartLoan to enable the practical implementation of the idea.</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/timeline/3.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>May 2021</h4>
+                                    <h4 class="subheading">Bridging the Chains</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">SmartLoan test run on its Hyperledger Aries agent, bridging between permissionless chain with permissioned chain to provide identity verification. This is a very important feature to make a collateral-free loan prodcut to be secured and lowered the risk!</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/timeline/4.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>The Future (2022)</h4>
+                                    <h4 class="subheading">Working Prototype 1.0</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">We are enticipating the working prototype SmartLoan 1.0 to be released and running on Mainnet. The founder will be the first experimental specimen to take this risk for this project!</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <h4>Be Part
+                                    <br>Of Our
+                                    <br>Story!</h4>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Team Section -->
+    <section id="team" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Our Amazing Team</h2>
+                    <h3 class="section-subheading text-muted"></h3>
+                </div>
+            </div>
+            <div class="row">
+                
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/1.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Asvoria Kuan</h4>
+                        <p class="text-muted">Lead Researcher & Founder</p>
+                        <ul class="list-inline social-buttons">
+                            
+                            <li>
+                                <a href="https://www.youtube.com/channel/UCUbr-n1cvqLvmmnKmA8JWzA">
+                                    <i class="fa fa-youtube"></i>
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="https://asvoria.wixsite.com/resume">
+                                    <i class="fa fa-file-text"></i>
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="https://www.linkedin.com/in/asvoriakuan/">
+                                    <i class="fa fa-linkedin"></i>
+                                </a>
+                            </li>
+                            
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/2.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Ian Munge</h4>
+                        <p class="text-muted">dApp Developer</p>
+                        <ul class="list-inline social-buttons">
+                            
+                            <li>
+                                <a href="https://github.com/ianmunge0">
+                                    <i class="fa fa-github"></i>
+                                </a>
+                            </li>
+                            
+
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/3.jpg" class="img-responsive img-circle" alt="">
+                        <h4>Eddy Kuan</h4>
+                        <p class="text-muted">Developer</p>
+                        <ul class="list-inline social-buttons">
+                            
+                            <li>
+                                <a href="">
+                                    <i class="fa fa-twitter"></i>
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="">
+                                    <i class="fa fa-linkedin"></i>
+                                </a>
+                            </li>
+                            
+
+                        </ul>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <p class="large text-muted">Contact us to join the team!</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Clients Aside -->
+    <aside class="clients">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <!--img src="img/logos/envato.jpg" class="img-responsive img-centered" alt=""-->
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <!--img src="img/logos/designmodo.jpg" class="img-responsive img-centered" alt=""-->
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <!--img src="img/logos/themeforest.jpg" class="img-responsive img-centered" alt=""-->
+                    </a>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <a href="#">
+                        <!--img src="img/logos/creative-market.jpg" class="img-responsive img-centered" alt=""-->
+                    </a>
+                </div>
+            </div>
+        </div>
+    </aside>
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Contact Us</h2>
+                    <h3 class="section-subheading text-muted"></h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    
+                    <div class="row text-center">
+                        <div class="col-md-4"><a href="mailto:sales.SmartLoan@outlook.my">
+                            <span class="fa-stack fa-4x">
+                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                            </span></a>
+                            <h4 class="service-heading2">sales.SmartLoan@outlook.my</h4>
+                            <p class="text-muted"></p>
+                        </div>
+                        <div class="col-md-4"><a href="https://discord.gg/aJXAsgW3">
+                            <span class="fa-stack fa-4x">
+                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                <i class="fa fa-comments-o fa-stack-1x fa-inverse"></i>
+                            </span></a>
+                            <h4 class="service-heading2">Discord</h4>
+                            <p class="text-muted"></p>
+                        </div>
+                        <div class="col-md-4">
+                            <span class="fa-stack fa-4x"><a href="whatsapp://send?phone=+60164713138">
+                                <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                                <i class="fa fa-whatsapp fa-stack-1x fa-inverse"></i>
+                            </span></a>
+                            <h4 class="service-heading2">WhatsApp</h4>
+                            <p class="text-muted"></p>
+                        </div>
+                    </div>
+                    
+                    
+                    <!--form action="https://formspree.io/f/xyylkjdv" method="POST">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="control-group form-group">
+                                    <input type="text" class="form-control" placeholder="Your Name *" id="name" required data-validation-required-message="Please enter your name.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="control-group form-group">
+                                    <input type="email" class="form-control" placeholder="Your Email *" id="email" required data-validation-required-message="Please enter your email address.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                                <div class="control-group form-group">
+                                    <input type="tel" class="form-control" placeholder="Your Phone *" id="phone" required data-validation-required-message="Please enter your phone number.">
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="control-group form-group">
+                                    <textarea class="form-control" placeholder="Your Message *" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                                    <p class="help-block text-danger"></p>
+                                </div>
+                            </div>
+                            <div class="clearfix"></div>
+                            <div class="col-lg-12 text-center">
+                                <div id="success"></div>
+                                <button type="submit" class="btn btn-xl">Send Message</button>
+                            </div>
+                        </div>
+                    </form-->
+                </div>
+            </div>
+        </div>
+    </section>
+
+      <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Copyright &copy; SmartLoan 2021</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        
+                        <li><a href="https://twitter.com/smartloan2"><i class="fa fa-twitter"></i></a>
+                        </li>
+                        
+                        <li><a href="https://discord.gg/aJXAsgW3"><i class="fa fa-comments-o"></i></a>
+                        </li>
+                        
+                        <li><a href="https://github.com/SmartLoan"><i class="fa fa-github"></i></a>
+                        </li>
+                        
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li><a href="#">Privacy Policy</a>
+                        </li>
+                        <li><a href="#">Terms of Use</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+     <!-- Portfolio Modals -->
+ 
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>SML Token</h2>
+                            <hr class="star-primary">
+                            <!--img src="img/portfolio/sail.png" class="img-responsive img-centered" alt="image-alt"-->
+                            <p>SML is the underlying token that makes SmartLoan operates. One SML token represent one BUSD, which is backed by same value of the reserved asset valued at one USD. When Investor trasfered BUSD into the contract, same amount of SML token will be minted into his/her account. The BUSD in the contract account will work as the funding capital. When a borrower took up a loan, the contract will release the amount of BUSD accordingly to the borrower by input schedule. When the borrower pay the loan interest, the interest will be distributed to the SML token stake holders. When the borrower repay the principal, the floating SML token will be burnt. If the investor decided to keep the SML token, the funds will remain in the pool for other borrowers. The price of SML token is peg to BUSD, therefore, it is not a rocket to the Moon. It is simply a ship sailing on earth. <br><br>For details, do check out the github repository.</p>
+                            <ul class="list-inline item-details">
+                                <li>Github:
+                                    <strong><a href="http://startbootstrap.com">https://github.com/SmartLoan</a>
+                                    </strong>
+                                </li>
+                                <li>Date:
+                                    <strong><a href="http://startbootstrap.com">May 2021</a>
+                                    </strong>
+                                </li>
+                                <li>
+                                    <strong><a href="http://startbootstrap.com"></a>
+                                    </strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Fund Independent Research</h2>
+                            <hr class="star-primary">
+                            <!--img src="img/portfolio/research.png" class="img-responsive img-centered" alt="image-alt"-->
+                            <p>Free education is good, as for the 40 countries with free graduate school tuition, for example in Germany. Although the system were praised worldwide to be a success, it cannot deny the fact that more than two-thirds of the annual funds invested in research came from corporations. Companies either conduct research themselves or collaborate with research partners. Researchers are supported not only with job offers, but also with scholarships and prizes from corporate foundations. Although corporate funding are well received, such approach might raise a conflict of interest between corporate benefits vs scientific integrity. Corporate interests sometimes can drive research agendas away, therefore, SmartLoan seeks to promote independent research as a counter balance to promote healthy competition, strengthen theoritical defence and create diversify opinions in the researched subject.  <br><br>To learn more about the issue, check out our repository at github.</p>
+                            <ul class="list-inline item-details">
+                                <li>Github:
+                                    <strong><a href="http://startbootstrap.com">https://github.com/SmartLoan</a>
+                                    </strong>
+                                </li>
+                                <li>Date:
+                                    <strong><a href="http://startbootstrap.com"></a>
+                                    </strong>
+                                </li>
+                                <li>
+                                    <strong><a href="http://startbootstrap.com"></a>
+                                    </strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Advancement Opportunities</h2>
+                            <hr class="star-primary">
+                            <!--img src="img/portfolio/opportunity.png" class="img-responsive img-centered" alt="image-alt"-->
+                            <p>Scholarships, sponsorship and grant awards that are available mostly reserved for the young, elite and students in under-developed countries. This has put a limit to every average people who intend to learn, serve and contribute. As most average people does not received any free support, their desire for accademic advancement lies on their willingness to sacrifice their comfort zone, by taking up an education loan, hoping for greater career advancement in their future after graduate.  <br><br>If an average person wants to serve as a doctor in a remote village where most of the villagers are in lower income group, he/she will be discouraged to do so after knowing the cost of getting a medical practitioner degree with traditional education loan. <br><br>With SmartLoan Dynamic Interest Rate, an average graduate has a freedom of his/her career choice. Whether he/she wants to serve the community or seeking for greater profitable career. The interest rate is calculated based on the borrower's gross income. If he/she decided to work for charitable non-profit organization, or work in a remote villages to server the underserved people, they will pay less interest compare to those who choose to walk in the for-profit path. <br><br>To learn more about how SmartLoan help the average people, do visit our Github repository.</p>
+                            <ul class="list-inline item-details">
+                                <li>Github:
+                                    <strong><a href="http://startbootstrap.com">https://github.com/SmartLoan</a>
+                                    </strong>
+                                </li>
+                                <li>Date:
+                                    <strong><a href="http://startbootstrap.com"></a>
+                                    </strong>
+                                </li>
+                                <li>
+                                    <strong><a href="http://startbootstrap.com"></a>
+                                    </strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Best of Both Worlds</h2>
+                            <hr class="star-primary">
+                            <!--img src="img/portfolio/connect.png" class="img-responsive img-centered" alt="image-alt"-->
+                            <p>Investors looking for some form of security when it comes to collateral-free loan. While public permissionless blockchain provided easy access and reliable ecosystem for financial transaction, permissioned blockchain added a layer of security by providing verifiable indentity to validate the borrowers' identity and qualification. With verifiable credentials and data, a borrower unable to cheat the system, thus, gross income based interest rate on education loan made possible to be implemented in the worldwide ecosystem! SmartLoan is the prototype of that will be implemented in these ecosystem. To learn more, visit our Github repository.</p>
+                            <ul class="list-inline item-details">
+                                <li>Github:
+                                    <strong><a href="http://startbootstrap.com">https://github.com/SmartLoan</a>
+                                    </strong>
+                                </li>
+                                <li>Date:
+                                    <strong><a href="http://startbootstrap.com"></a>
+                                    </strong>
+                                </li>
+                                <li>
+                                    <strong><a href="http://startbootstrap.com"></a>
+                                    </strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Funded by Public</h2>
+                            <hr class="star-primary">
+                            <!--img src="img/portfolio/support.png" class="img-responsive img-centered" alt="image-alt"-->
+                            <p>Does generosity begat generosity? According to a research by <a href="https://www.nber.org/system/files/working_papers/w17861/w17861.pdf" target="_blank">J Meer and Rosen</a>, those who received any form of scholarship had lower probability of giving back by 0.7%. Although the number is very insignificant, it does indicates that the ineffectiveness of scholarship to promote generosity and giving-back culture amongs those who benefited from the program.</br></br>While the reseaon behind the ungratitude behaviour migth be due to the fact that most scholarships were offered by wealthy organizations that the receipient do not feel resentful without providing back the generosity to them. SmartLoan being funded by the general public, reminds the receipient of the loan, to pay back their loan with interest, where the interest rate is tied to the success of the recipient's future career. And the loan is forgiven when unfortunate events happened. SmartLoan attempt to enforce the gratitude economy through its dynamic interest rate calculation. To learn more, do visit our Github repository.</p>
+                            <ul class="list-inline item-details">
+                                <li>Github:
+                                    <strong><a href="http://startbootstrap.com">https://github.com/SmartLoan</a>
+                                    </strong>
+                                </li>
+                                <li>Date:
+                                    <strong><a href="http://startbootstrap.com"></a>
+                                    </strong>
+                                </li>
+                                <li>
+                                    <strong><a href="http://startbootstrap.com"></a>
+                                    </strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Dynamic Interest Money</h2>
+                            <hr class="star-primary">
+                            <!--img src="img/portfolio/path.png" class="img-responsive img-centered" alt="image-alt"-->
+                            <p>If you seek for greater profit, you had to be willing to take greater risk! That's when the Negative Interest Rate comes to the picture.  <br><br>The concept of Negative Interest Rate was first introduced by a German theoritical economist Silvio Gesell. Although it is an unpopular theory, SmartLoan seeks to implement the concept on certain unfortunate circumstance that happened to the borrower. In contrast to that, if the lender willing to take this risk, they will be awarded by high positive interest rates when the borrower experience good times.  Given an example, Alice borrowed $12k for her study. After she graduate, she caught into an accident where she was permanently disabbled. In such circumstance, the Negative Interest Rate activated to cancel itself, forgiven her loan repayment every month.  <br><br>In another circumstance, after Alice graduated, she started a business and it became a huge success. She got extremely lucky and won a lottery. The high interest rate came into the system, in addition to that, the rate is calculated based on Alice's gross income. Where the success of her business and lottery winnings being part of the numbers. Therefore, the lenders successfully obtain a huge gain from the interest payment by Alice. This is a form of "Gratitude Economy", where Alice's payment of interest, is a form of action of gratitude towards those who supported her (the lenders) during her times of needs.  <br><br>For detail about how the Dynamic Interest Rate is calculated, check out our Github repository.</p>
+                            <ul class="list-inline item-details">
+                                <li>Github:
+                                    <strong><a href="http://startbootstrap.com">https://github.com/SmartLoan</a>
+                                    </strong>
+                                </li>
+                                <li>Date:
+                                    <strong><a href="http://startbootstrap.com"></a>
+                                    </strong>
+                                </li>
+                                <li>
+                                    <strong><a href="http://startbootstrap.com"></a>
+                                    </strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+     <!-- jQuery Version 1.11.0 -->
+    <script src="/smartloan-page//js/jquery-1.11.0.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/smartloan-page//js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="/smartloan-page//js/jquery.easing.min.js"></script>
+    <script src="/smartloan-page//js/classie.js"></script>
+    <script src="/smartloan-page//js/cbpAnimatedHeader.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="/smartloan-page//js/jqBootstrapValidation.js"></script>
+    <script src="/smartloan-page//js/contact_me.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="/smartloan-page//js/agency.js"></script>
+
+
+    </body>
+</html>
